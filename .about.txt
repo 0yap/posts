@@ -1,9 +1,5 @@
-hi, im neruteto! this is my website, where ill try to publish short posts about stuff im currently thinking about. i hope youll enjoy it!
+<p>hi, im neruteto! this is my website, where ill try to publish short posts about stuff im currently thinking about. i hope youll enjoy it!</p>
 
-<br>
+<p>if you wont be able to access this website, try using 0yap.net or 0yap.com, one of them might work.</p>
 
-if you wont be able to access this website, try using 0yap.net or 0yap.com, one of them might work.
-
-<br>
-
-also if you want to talk or just tell me your opinion on this website, heres my email: hi@0yap.com (hi@0yap.net)
+<p>also if you want to talk or just tell me your opinion on this website, heres my email: hi@0yap.com (hi@0yap.net)</p>
